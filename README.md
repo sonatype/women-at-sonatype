@@ -46,6 +46,7 @@
 #### Janet Lunde
 - [Github](https://github.com/jhlunde)
 - [LinkedIn](https://www.linkedin.com/in/janetlunde/)
+- Topics of Interest: community; diversity, equity & inclusion.
 - Location - Pittsburgh, PA, USA
 
 #### Kelsey Hoffman
