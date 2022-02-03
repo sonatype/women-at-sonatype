@@ -3,9 +3,9 @@ Add yourself by submitting a PR!
 
 Please add yourself alphabetically, in the following format:
 
-#### Full Name (First Last)
+#### Santi Mulukutla
 
-- [Github](http://github.com)
-- [Website/LinkedIn](http://www.linkedin.com)
-- Topics of Interest - Topic 1, Topic 2, Topic 3
-- Location - City, State, Country
+- https://github.com/SMulukutla
+- https://www.linkedin.com/in/santi-mulukutla-53435b3
+- Topics of Interest - Open Source, Software Supply Chain, Data Quality - Risk & Governance 
+- Location - South Amboy, New Jersey, USA
