@@ -1,7 +1,7 @@
 # Women at Sonatype
 <img width="180" alt="Women_at_Sonatype_sticker" src="https://user-images.githubusercontent.com/15128587/152411757-e69755b5-7a0b-4533-be0f-abac0e667dca.png">
 
-Women at Sonatype (W@S) is a group at Sonatype that is passionate about promoting gender inclusivity, building a network and community to advance the members’ personal and professional growth through events and mentorship opportunities, and advocating for debiasing the recruitment of talent in tech, open source and executive leadership. This list aims to highlight members of W@S and their expertise, along with an opportunity to connect with them based on their interests.
+**Women at Sonatype (W@S)** is a group at Sonatype that is passionate about promoting gender inclusivity, building a network and community to advance the members’ personal and professional growth through events and mentorship opportunities, and advocating for debiasing the recruitment of talent in tech, open source and executive leadership. This list aims to highlight members of W@S and their expertise, along with an opportunity to connect with them based on their interests.
 
 ## Members
 #### Allie Sierra
