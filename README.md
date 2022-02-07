@@ -17,6 +17,12 @@
 - Topics of Interest - Diversity & Inclusion, Recruiting for Diverse Candidates.
 - Location - Wilmington, NC, USA
 
+#### Amy Keibler
+- [Github](https://github.com/amy-keibler)
+- [LinkedIn](https://www.linkedin.com/in/amelia-keibler)
+- Topics of Interest - Secure Software Development; Rust; Haskell; Diversity, Equity & Inclusion; Accessibility; Cycling
+- Location - Cleveland, OH, USA
+
 #### Ankita Lamba
 - [Github](https://github.com/alamba3890)
 - [LinkedIn](https://www.linkedin.com/in/ankitalamba/)
