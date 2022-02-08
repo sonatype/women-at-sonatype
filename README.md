@@ -52,7 +52,7 @@
 #### Janet Lunde
 - [Github](https://github.com/jhlunde)
 - [LinkedIn](https://www.linkedin.com/in/janetlunde/)
-- Topics of Interest: community; diversity, equity & inclusion.
+- Topics of Interest - community; diversity, equity & inclusion.
 - Location - Pittsburgh, PA, USA
 
 #### Kelsey Hoffman
@@ -76,13 +76,13 @@
 - Topics of Interest - Sports, animals, community service, cooking, reading.
 - Location - VA, USA
 
+#### Santi Mulukutla
+- [Github](https://github.com/SMulukutla)
+- [LinkedIn](https://www.linkedin.com/in/santi-mulukutla-53435b3)
+- Topics of Interest - Open Source, Software Supply Chain, Data Quality - Risk & Governance 
+- Location - NJ, USA
+
 #### Sue Jasmin
 - [LinkedIn](https://linkedin.com/in/susanjasmin/)
 - Topics of Interest - Literacy initiatives, hiring, supporting and promoting women in tech, community belonging inclusion and diversity at work and in the world, girls and womens empowerment through sports - see https://freetorun.org/ and https://www.girlsontherun.org/
 - Location - VA, USA
-
-#### Santi Mulukutla
-- https://github.com/SMulukutla
-- https://www.linkedin.com/in/santi-mulukutla-53435b3
-- Topics of Interest - Open Source, Software Supply Chain, Data Quality - Risk & Governance 
-- Location - New Jersey, USA
