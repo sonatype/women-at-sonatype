@@ -77,6 +77,7 @@
 - Location - VA, USA
 
 #### Sal Kimmich
+- [Github](https://github.com/Salkimmich)
 - [LinkedIn](https://www.linkedin.com/in/salkimmich/)
 - Topics of Interest - Open Source, equity and inclusion, saveing the world one git commit at a time
 - Location - Brighton UK, Seattle WA and occassionally just on a boat somewhere
