@@ -76,6 +76,11 @@
 - Topics of Interest - Sports, animals, community service, cooking, reading.
 - Location - VA, USA
 
+#### Sal Kimmich
+- [LinkedIn](https://www.linkedin.com/in/salkimmich/)
+- Topics of Interest - Open Source, equity and inclusion, saveing the world one git commit at a time
+- Location - Brighton UK, Seattle WA and occassionally just on a boat somewhere
+
 #### Santi Mulukutla
 - [Github](https://github.com/SMulukutla)
 - [LinkedIn](https://www.linkedin.com/in/santi-mulukutla-53435b3)
