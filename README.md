@@ -44,6 +44,11 @@
 - [LinkedIn](https://www.linkedin.com/in/cerahhedrick/)
 - Location - Boulder, CO, USA
 
+#### Dana Ward
+- [LinkedIn](https://www.linkedin.com/in/dana-ward-fscp/)
+- Topics of Interest - Social equity, adult learning, psychology, human behavior, and all things FOOOOOD!
+- Location - Chicago, IL, USA
+
 #### Ember DeBoer
 - [Github](https://github.com/emdebo)
 - [LinkedIn](https://www.linkedin.com/in/emberdeboer/)
@@ -55,11 +60,22 @@
 - Topics of Interest - community; diversity, equity & inclusion.
 - Location - Pittsburgh, PA, USA
 
+#### Jenni Kobylski
+- [Github](https://github.com/JenniKobylskiUX)
+- [LinkedIn](https://www.linkedin.com/in/jennikobylski/) / [Website](https://jennikobylski.com/)
+- Topics of Interest - Accessibility; Accountability; Collective Action; Diversity; Empathy; Empowerment; Equity; Ethical Leadership; Human-Centered Design; Inclusion; Kindness; LGBTQIA+; Mentorship; Personal Responsibility; Sustainability.
+- Location - Pittsburgh, PA, USA
+
 #### Kelsey Hoffman
 - [Github](https://github.com/kelshoffman)
 - [LinkedIn](https://www.linkedin.com/in/hoffmak/)
 - Topics of Interest - Accessibility, DEA&I, Financial Literacy, Corporate Social Responsibility, Sustainability.
 - Location - Cincinnati, OH, USA
+
+#### Kernika McCray
+- [LinkedIn](https://www.linkedin.com/in/kernikamccray/)
+- Topics of Interest - Talent Development, Emotional Intelligence, DE&I, Black girl magic, Sports.
+- Location - Richmond, VA, USA
 
 #### Kirandeep Kaur
 - [Github](https://github.com/KirannKaur)
