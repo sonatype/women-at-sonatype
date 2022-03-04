@@ -107,7 +107,7 @@ Hashtags: #womenatsonatype, #BreakTheBias, #IWD2022.
 - [Github](https://github.com/SMulukutla)
 - [LinkedIn](https://www.linkedin.com/in/santi-mulukutla-53435b3)
 - Topics of Interest - Open Source, Software Supply Chain, Data Quality - Risk & Governance 
-- Location - NJ, USA
+- Location - Part-time UK, Part-time USA
 
 #### Sue Jasmin
 - [LinkedIn](https://linkedin.com/in/susanjasmin/)
