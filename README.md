@@ -3,11 +3,6 @@
 <img width="300" alt="Women_at_Sonatype_sticker" src="https://user-images.githubusercontent.com/15128587/152411757-e69755b5-7a0b-4533-be0f-abac0e667dca.png">
 </p>
 
-## Celebrating International Women's Day on March 8th 2022!
-We'd like to invite everyone to join Sonatype to participate for the third consecutive year in International Women’s Day. It takes place on Tuesday, March 8th. This year’s theme is #BreakTheBias and we’re taking it to the next level with a series of events celebrating IWD and Women’s History month.
-In addition to social media, blog posts, a [Sonatype.com career page](https://www.sonatype.com/company/careers?topnav=true) takeover and updates to the Sonatype intranet, we’re planning a panel discussion around the #BreakTheBias topic based on an article from the Harvard Business Review, ["How the Best Bosses Interrupt Bias on their Teams"](https://hbr.org/2019/11/how-the-best-bosses-interrupt-bias-on-their-teams?utm_medium=email&_hsmi=2&_hsenc=p2ANqtz-_WHOHhmMKpQotTyGfdF9rJiSc2vNxzxELdoutx8JrJT4ppSk2Ko1s5QTwr6rEkODpFT720PTIDyZMv9e-p915RE1C8Dw&utm_content=2&utm_source=hs_email). Watch for the company-wide invite to this event.
-Hashtags: #womenatsonatype, #BreakTheBias, #IWD2022.
-
 **Women at Sonatype (W@S)** is a group at Sonatype that is passionate about promoting gender inclusivity, building a network and community to advance the members’ personal and professional growth through events and mentorship opportunities, and advocating for debiasing the recruitment of talent in tech, open source and executive leadership. This list aims to highlight members of W@S and their expertise, along with an opportunity to connect with them based on their interests.
 
 ## Members
