@@ -66,6 +66,13 @@
 - Topics of Interest - Accessibility; Accountability; Collective Action; Diversity; Empathy; Empowerment; Equity; Ethical Leadership; Human-Centered Design; Inclusion; Kindness; LGBTQIA+; Mentorship; Personal Responsibility; Sustainability.
 - Location - Pittsburgh, PA, USA
 
+#### Kassandra Gillmore
+
+- [Github](https://github.com/kassandragillmore91)
+- [Website/LinkedIn](https://www.linkedin.com/in/kassandraleighgillmore/)
+- Topics of Interest - Java software development, reading, all things crafty
+- Location - Benton, KY, USA
+
 #### Kernika McCray
 - [LinkedIn](https://www.linkedin.com/in/kernikamccray/)
 - Topics of Interest - Talent Development, Emotional Intelligence, DE&I, Black girl magic, Sports.
