@@ -69,8 +69,8 @@
 #### Kassandra Gillmore
 
 - [Github](https://github.com/kassandragillmore91)
-- [Website/LinkedIn](https://www.linkedin.com/in/kassandraleighgillmore/)
-- Topics of Interest - Java software development, reading, all things crafty
+- [LinkedIn](https://www.linkedin.com/in/kassandraleighgillmore/)
+- Topics of Interest - Java software development, reading, all things crafty.
 - Location - Benton, KY, USA
 
 #### Kernika McCray
