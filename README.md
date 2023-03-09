@@ -51,7 +51,7 @@
 
 #### Eilidh Robey (Ay-lee)
 - [Github](https://github.com/eilidhmae)
-- [Website/LinkedIn](https://www.linkedin.com/in/eilidhrobey/)
+- [LinkedIn](https://www.linkedin.com/in/eilidhrobey/)
 - Topics of Interest - Open Source, Professional Relationship Development, DEI&B
 - Location - Vancouver, British Columbia, Canada
 
