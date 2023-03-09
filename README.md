@@ -49,6 +49,12 @@
 - Topics of Interest - Social equity, adult learning, psychology, human behavior, and all things FOOOOOD!
 - Location - Chicago, IL, USA
 
+#### Eilidh Robey (Ay-lee)
+- [Github](https://github.com/eilidhmae)
+- [LinkedIn](https://www.linkedin.com/in/eilidhrobey/)
+- Topics of Interest - Open Source, Professional Relationship Development, DEI&B
+- Location - Vancouver, British Columbia, Canada
+
 #### Ember DeBoer
 - [Github](https://github.com/emdebo)
 - [LinkedIn](https://www.linkedin.com/in/emberdeboer/)
