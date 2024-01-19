@@ -12,11 +12,6 @@
 - Topics of Interest - Open Source, DevOps, Golang, Rust, DEI&B, Human-centric Leadership.
 - Location - Cleveland, OH, USA
 
-#### Amy Jacques-Biggers
-- [LinkedIn](https://www.linkedin.com/in/amyjacques/)
-- Topics of Interest - Diversity & Inclusion, Recruiting for Diverse Candidates.
-- Location - Wilmington, NC, USA
-
 #### Amy Keibler
 - [Github](https://github.com/amy-keibler)
 - [LinkedIn](https://www.linkedin.com/in/amelia-keibler)
@@ -38,22 +33,6 @@
 - [LinkedIn](https://www.linkedin.com/in/briannestrozewski/)
 - Topics of Interest - I want to learn about how you learn. Topics I love are customer education, devops/devsecops, software documentation, software supply chain management, tech writing.
 - Location - Boston, MA, USA
-
-#### Cerah Hedrick
-- [Github](https://github.com/CerahSonatype)
-- [LinkedIn](https://www.linkedin.com/in/cerahhedrick/)
-- Location - Boulder, CO, USA
-
-#### Dana Ward
-- [LinkedIn](https://www.linkedin.com/in/dana-ward-fscp/)
-- Topics of Interest - Social equity, adult learning, psychology, human behavior, and all things FOOOOOD!
-- Location - Chicago, IL, USA
-
-#### Eilidh Robey (Ay-lee)
-- [Github](https://github.com/eilidhmae)
-- [LinkedIn](https://www.linkedin.com/in/eilidhrobey/)
-- Topics of Interest - Open Source, Professional Relationship Development, DEI&B
-- Location - Vancouver, British Columbia, Canada
 
 #### Ember DeBoer
 - [Github](https://github.com/emdebo)
@@ -98,12 +77,6 @@
 - [LinkedIn](https://www.linkedin.com/in/mikaela-berst/)
 - Topics of Interest - Sports, animals, community service, cooking, reading.
 - Location - VA, USA
-
-#### Sal Kimmich
-- [Github](https://github.com/Salkimmich)
-- [LinkedIn](https://www.linkedin.com/in/salkimmich/)
-- Topics of Interest - Open Source, equity and inclusion, saveing the world one git commit at a time
-- Location - Brighton UK, Seattle WA and occassionally just on a boat somewhere
 
 #### Santi Mulukutla
 - [Github](https://github.com/SMulukutla)
