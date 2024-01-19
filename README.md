@@ -1,6 +1,6 @@
 # Women at Sonatype
 <p align="center">
-<img width="300" alt="Women_at_Sonatype_sticker" src="https://user-images.githubusercontent.com/15128587/152411757-e69755b5-7a0b-4533-be0f-abac0e667dca.png">
+<img width="300" alt="Women_at_Sonatype_sticker" src=https://github.com/sonatype/women-at-sonatype/assets/15128587/34f5653a-b127-430c-962a-76641a030f3f>
 </p>
 
 **Women at Sonatype (W@S)** is an allied and inclusive community to discuss and create awareness around issues women face in the workplace, provide tools and resources, and to help colleagues who work with them to be better equipped to support them. 
