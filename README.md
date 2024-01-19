@@ -23,8 +23,8 @@
 #### Ankita Lamba
 - [Github](https://github.com/alamba3890)
 - [LinkedIn](https://www.linkedin.com/in/ankitalamba/)
-- Topics of Interest - All things cybersecurity; Women empowerment through STEM careers; Diversity, Equity & Inclusion initiatives in the workplace and beyond; Sustainable living.
-- Location - Boston, MA, USA
+- Topics of Interest - All things cybersecurity; Women empowerment through STEM careers; Diversity, Equity & Inclusion initiatives in the workplace and beyond; Mentorship; Sustainable living.
+- Location - MD, USA
  
 #### Anna Damtsa
 - [Github](https://github.com/anna-d)
