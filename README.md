@@ -41,12 +41,6 @@
 - [LinkedIn](https://www.linkedin.com/in/emberdeboer/)
 - Topics of Interest - Community, Advocacy, CX, Education, Diversity & Inclusion.
 
-#### Janet Lunde
-- [Github](https://github.com/jhlunde)
-- [LinkedIn](https://www.linkedin.com/in/janetlunde/)
-- Topics of Interest - community; diversity, equity & inclusion.
-- Location - Pittsburgh, PA, USA
-
 #### Jenni Kobylski
 - [Github](https://github.com/JenniKobylskiUX)
 - [LinkedIn](https://www.linkedin.com/in/jennikobylski/) / [Website](https://jennikobylski.com/)
@@ -59,11 +53,6 @@
 - [LinkedIn](https://www.linkedin.com/in/kassandraleighgillmore/)
 - Topics of Interest - Java software development, reading, all things crafty.
 - Location - Benton, KY, USA
-
-#### Kernika McCray
-- [LinkedIn](https://www.linkedin.com/in/kernikamccray/)
-- Topics of Interest - Talent Development, Emotional Intelligence, DE&I, Black girl magic, Sports.
-- Location - Richmond, VA, USA
 
 #### Kirandeep Kaur
 - [Github](https://github.com/KirannKaur)
