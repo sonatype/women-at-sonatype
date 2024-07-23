@@ -8,12 +8,6 @@
 **Our Mission:** To provide an inclusive community for women and their allies to build skills and access resources centered around empowerment, personal and professional growth, learning, finding support in one another through shared experiences and mentorship, and providing an avenue for leadership opportunities, and DE&I efforts.
 
 ## Members
-#### Allie Sierra
-- [Github](https://github.com/allisonsierra)
-- [LinkedIn](https://www.linkedin.com/in/allisonsierra/)
-- Topics of Interest - Open Source, DevOps, Golang, Rust, DEI&B, Human-centric Leadership.
-- Location - Cleveland, OH, USA
-
 #### Amy Keibler
 - [Github](https://github.com/amy-keibler)
 - [LinkedIn](https://www.linkedin.com/in/amelia-keibler)
@@ -41,12 +35,6 @@
 - [LinkedIn](https://www.linkedin.com/in/emberdeboer/)
 - Topics of Interest - Community, Advocacy, CX, Education, Diversity & Inclusion.
 
-#### Jenni Kobylski
-- [Github](https://github.com/JenniKobylskiUX)
-- [LinkedIn](https://www.linkedin.com/in/jennikobylski/) / [Website](https://jennikobylski.com/)
-- Topics of Interest - Accessibility; Accountability; Collective Action; Diversity; Empathy; Empowerment; Equity; Ethical Leadership; Human-Centered Design; Inclusion; Kindness; LGBTQIA+; Mentorship; Personal Responsibility; Sustainability.
-- Location - Pittsburgh, PA, USA
-
 #### Kassandra Gillmore
 
 - [Github](https://github.com/kassandragillmore91)
@@ -59,8 +47,8 @@
 - Topics of Interest - Future of UX in AI/ML, Accessibility, gender inclusivity.
 - Location - Toronto, ON, Canada
 
-#### Maura Harwood
-- [LinkedIn](https://www.linkedin.com/in/maura-harwood-0b4a9662/)
+#### Maura Frost
+- [LinkedIn](https://www.linkedin.com/in/maura-frost-0b4a9662/)
 - Topics of Interest - Community Management, Customer Advocacy, Communications.
 - Location - Nashville, TN, USA
  
