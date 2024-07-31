@@ -8,6 +8,12 @@
 **Our Mission:** To provide an inclusive community for women and their allies to build skills and access resources centered around empowerment, personal and professional growth, learning, finding support in one another through shared experiences and mentorship, and providing an avenue for leadership opportunities, and DE&I efforts.
 
 ## Members
+#### Allie Sierra
+- [Github](https://github.com/allisonsierra)
+- [LinkedIn](https://www.linkedin.com/in/allisonsierra/)
+- Topics of Interest - Open Source, DevOps, Golang, Rust, DEI&B, Human-centric Leadership.
+- Location - Cleveland, OH, USA
+  
 #### Amy Keibler
 - [Github](https://github.com/amy-keibler)
 - [LinkedIn](https://www.linkedin.com/in/amelia-keibler)
